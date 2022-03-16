@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yassin</h1>
+<h1 align="center">Hi, I'm Yassin 🥷</h1>
 <h3 align="center">A passionate fullstack developer from France</h3>
 
 - 🔭 I’m currently working on [WatchList](https://watch-list-yass.herokuapp.com/)
