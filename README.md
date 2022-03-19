@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Yassin 🥷</h1>
 <h3 align="center">A passionate fullstack developer from France</h3>
 
-- 🔭 I’m currently working on [Contribute](https://www.localcontribute.com/)
+- 🔭 I’m currently working on [Ruby On Rails TUtorial]
 
 - 🚀 I’m currently learning **ReactJS**
 
