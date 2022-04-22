@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Ruby On Rails Tutorial](https://edu.anarcho-copy.org/Programming%20Languages/Ruby/ruby-rails-tutorial-learn-web-development-6th.pdf)
 
-- 🚀 I’m currently learning **ReactJS**
+- 🚀 I’m currently learning **NodeJS** and **AngularJS**
 
 - 📧 How to reach me **yassin.mehlil[at]gmail.com**
 
