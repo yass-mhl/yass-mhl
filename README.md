@@ -1,9 +1,9 @@
 <h1 align="center">Hey, I'm Yassin 🥷</h1>
 <h3 align="center">A passionate fullstack developer from France</h3>
 
-- 🔭 I’m currently working on [a NodeJS project](https://www.udemy.com/share/104mPe3@s2wankMAzBjcG5J4v33zs3tTDQzSBAi4IMDOtSHsORhH_WSmo5RoenBUHsDhVrxS-Q==/)
+- 🔭 I’m currently working on [React Project](https://www.udemy.com/share/105GUw3@014CvjuGIdv4ABR2RLHAika5glQqlCWkbleblSoFfOsgIea40oQeKagmzqcjDgw04w==/)
 
-- 🚀 I’m currently learning **NodeJS** and **AngularJS**
+- 🚀 I’m currently learning **ReactJS** and **Redux**
 
 - 📧 How to reach me **yassin.mehlil[at]gmail.com**
 
