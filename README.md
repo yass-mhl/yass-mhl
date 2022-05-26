@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Yassin 🥷</h1>
 <h3 align="center">A passionate fullstack developer from France</h3>
 
-- 🔭 I’m currently working on [Marvel Quiz](https://github.com/yass-mhl/marvel-quiz)
+- 🔭 I’m currently working on [Marvel Quiz](https://marvel-quiz-4110d.web.app/)
 
 - 🚀 I’m currently learning **ReactJS** and **Redux**
 
