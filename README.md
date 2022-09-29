@@ -1,9 +1,9 @@
 <h1 align="center">Hey, I'm Yassin 🥷</h1>
 <h3 align="center">A passionate fullstack developer from France</h3>
 
-- 🔭 I am currently preparing the piscine at 42
+- 🔭 I am currently preparing student at **42**.
 
-- 🚀 I’m currently learning **ReactJS** and **Redux**
+- 🚀 I’m currently learning **C**
 
 - 📧 How to reach me **yassin.mehlil[at]gmail.com**
 
