@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>   
 
-<br/>
+
 ### <div align="center">I'm Yassin, a 20 yo french 🇫🇷 Fullstack Developer & 42 Student </div>  
   
 
