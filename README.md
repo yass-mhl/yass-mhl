@@ -1,4 +1,4 @@
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" height="" width="600" />  
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" height="" width="100%" />  
   
 
 ### <div align="center">I'm Yassin, a 20 yo french 🇫🇷 Fullstack Developer & 42 Student </div>  
