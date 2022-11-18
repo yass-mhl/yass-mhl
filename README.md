@@ -51,6 +51,24 @@
 
 <br/>  
 
+## My 42 Roadmap
+
+<div align="center">
+  
+[![ymehlil's 42 stats](https://badge42.vercel.app/api/v2/clams84mi00110gmp7m4fnlxg/stats?cursusId=21&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
+
+<table>
+<tr><th> 42 Projects </th></tr>
+<tr><td>
+
+| Project  |  Mark  |
+|----------|--------|
+| [Libft](https://github.com/yass-mhl/libft)         | [![ymehlil's 42 Libft Score](https://badge42.vercel.app/api/v2/clams84mi00110gmp7m4fnlxg/project/2868687)](https://github.com/JaeSeoKim/badge42)                |
+| [ft_printf](https://github.com/yass-mhl/get_next_line) | [![ymehlil's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clams84mi00110gmp7m4fnlxg/project/2875993)](https://github.com/JaeSeoKim/badge42)          |
+| [get_next_line](https://github.com/yass-mhl/get_next_line)     | [![ymehlil's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clams84mi00110gmp7m4fnlxg/project/2884585)](https://github.com/JaeSeoKim/badge42)              |
+
+</td>
+</tr> </table></div>
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=yass-mhl&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
