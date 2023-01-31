@@ -54,6 +54,7 @@
 | [get_next_line](https://github.com/yass-mhl/get_next_line)     | [![ymehlil's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clams84mi00110gmp7m4fnlxg/project/2884585)](https://github.com/JaeSeoKim/badge42)              |
 | [Born2beroot](https://github.com/yass-mhl/get_next_line)     | [![ymehlil's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clams84mi00110gmp7m4fnlxg/project/2892265)](https://github.com/JaeSeoKim/badge42)              |
 | [Push Swap](https://github.com/yass-mhl/push_swap)     | [![ymehlil's 42 push_swap Score](https://badge42.vercel.app/api/v2/clams84mi00110gmp7m4fnlxg/project/2912614)](https://github.com/JaeSeoKim/badge42)              |
+| [so_long](https://github.com/yass-mhl/so_long)     | [![ymehlil's 42 so_long Score](https://badge42.vercel.app/api/v2/clams84mi00110gmp7m4fnlxg/project/2932084)](https://github.com/JaeSeoKim/badge42)              |
 
 </td>
 </tr> </table></div>
