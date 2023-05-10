@@ -9,7 +9,7 @@
 - Proud learner of the 42 Network 4️⃣ 2️⃣  
   
 
-- Teacher Assistant at [Le Wagon](https://www.lewagon.com/fr) 🚂  
+- Teacher at [Le Wagon](https://www.lewagon.com/fr) 🚂  
   
 
 - I am very curious and I am always learning new things 🧑‍🎓  
