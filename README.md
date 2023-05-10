@@ -56,6 +56,8 @@
 | [Push Swap](https://github.com/yass-mhl/push_swap)     | [![ymehlil's 42 push_swap Score](https://badge42.vercel.app/api/v2/clams84mi00110gmp7m4fnlxg/project/2912614)](https://github.com/JaeSeoKim/badge42)              |
 | [so_long](https://github.com/yass-mhl/so_long)     | [![ymehlil's 42 so_long Score](https://badge42.vercel.app/api/v2/clams84mi00110gmp7m4fnlxg/project/2932084)](https://github.com/JaeSeoKim/badge42)              |
 | [pipex](https://github.com/yass-mhl/pipex)     | [![ymehlil's 42 pipex Score](https://badge42.vercel.app/api/v2/clams84mi00110gmp7m4fnlxg/project/3030411)](https://github.com/JaeSeoKim/badge42)              |
+| [philosophers](https://github.com/yass-mhl/philosophers)     | [![ymehlil's 42 Philosophers Score](https://badge42.vercel.app/api/v2/clams84mi00110gmp7m4fnlxg/project/3084087)](https://github.com/JaeSeoKim/badge42)              |
+| [minishell](https://github.com/yass-mhl/minishell)     | [![ymehlil's 42 minishell Score](https://badge42.vercel.app/api/v2/clams84mi00110gmp7m4fnlxg/project/3032561)](https://github.com/JaeSeoKim/badge42)              |
 </td>
 </tr> </table></div>
 
