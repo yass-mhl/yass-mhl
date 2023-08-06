@@ -57,7 +57,9 @@
 | [so_long](https://github.com/yass-mhl/so_long)     | [![ymehlil's 42 so_long Score](https://badge42.vercel.app/api/v2/clams84mi00110gmp7m4fnlxg/project/2932084)](https://github.com/JaeSeoKim/badge42)              |
 | [pipex](https://github.com/yass-mhl/pipex)     | [![ymehlil's 42 pipex Score](https://badge42.vercel.app/api/v2/clams84mi00110gmp7m4fnlxg/project/3030411)](https://github.com/JaeSeoKim/badge42)              |
 | [philosophers](https://github.com/yass-mhl/philosophers)     | [![ymehlil's 42 Philosophers Score](https://badge42.vercel.app/api/v2/clams84mi00110gmp7m4fnlxg/project/3084087)](https://github.com/JaeSeoKim/badge42)              |
-| [minishell](https://github.com/yass-mhl/minishell)     | [![ymehlil's 42 minishell Score](https://badge42.vercel.app/api/v2/clams84mi00110gmp7m4fnlxg/project/3032561)](https://github.com/JaeSeoKim/badge42)              |
+| [minishell](https://github.com/yass-mhl/minishell)     | [![ymehlil's 42 NetPractice Score](https://badge42.vercel.app/api/v2/clams84mi00110gmp7m4fnlxg/project/3132774)](https://github.com/JaeSeoKim/badge42)          |
+| [netpratice](https://github.com/yass-mhl/yass-mhl)     | [![ymehlil's 42 Philosophers Score](https://badge42.vercel.app/api/v2/clams84mi00110gmp7m4fnlxg/project/3084087)](https://github.com/JaeSeoKim/badge42)              |
+| [cub3d](https://github.com/yass-mhl/cub3d)     | [![ymehlil's 42 cub3d Score](https://badge42.vercel.app/api/v2/clams84mi00110gmp7m4fnlxg/project/3159628)](https://github.com/JaeSeoKim/badge42)              |
 </td>
 </tr> </table></div>
 
