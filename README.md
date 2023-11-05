@@ -33,36 +33,7 @@
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-</div>  
-
-<br/>  
-
-## My 42 Roadmap
-
-<div align="center">
-  
-[![ymehlil's 42 stats](https://badge42.vercel.app/api/v2/clams84mi00110gmp7m4fnlxg/stats?cursusId=21&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
-
-<table>
-<tr><th> 42 Projects </th></tr>
-<tr><td>
-
-| Project  |  Mark  |
-|----------|--------|
-| [Libft](https://github.com/yass-mhl/libft)         | [![ymehlil's 42 Libft Score](https://badge42.vercel.app/api/v2/clams84mi00110gmp7m4fnlxg/project/2868687)](https://github.com/JaeSeoKim/badge42)                |
-| [ft_printf](https://github.com/yass-mhl/get_next_line) | [![ymehlil's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clams84mi00110gmp7m4fnlxg/project/2875993)](https://github.com/JaeSeoKim/badge42)          |
-| [get_next_line](https://github.com/yass-mhl/get_next_line)     | [![ymehlil's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clams84mi00110gmp7m4fnlxg/project/2884585)](https://github.com/JaeSeoKim/badge42)              |
-| [Born2beroot](https://github.com/yass-mhl/get_next_line)     | [![ymehlil's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clams84mi00110gmp7m4fnlxg/project/2892265)](https://github.com/JaeSeoKim/badge42)              |
-| [Push Swap](https://github.com/yass-mhl/push_swap)     | [![ymehlil's 42 push_swap Score](https://badge42.vercel.app/api/v2/clams84mi00110gmp7m4fnlxg/project/2912614)](https://github.com/JaeSeoKim/badge42)              |
-| [so_long](https://github.com/yass-mhl/so_long)     | [![ymehlil's 42 so_long Score](https://badge42.vercel.app/api/v2/clams84mi00110gmp7m4fnlxg/project/2932084)](https://github.com/JaeSeoKim/badge42)              |
-| [pipex](https://github.com/yass-mhl/pipex)     | [![ymehlil's 42 pipex Score](https://badge42.vercel.app/api/v2/clams84mi00110gmp7m4fnlxg/project/3030411)](https://github.com/JaeSeoKim/badge42)              |
-| [philosophers](https://github.com/yass-mhl/philosophers)     | [![ymehlil's 42 Philosophers Score](https://badge42.vercel.app/api/v2/clams84mi00110gmp7m4fnlxg/project/3084087)](https://github.com/JaeSeoKim/badge42)              |
-| [minishell](https://github.com/yass-mhl/minishell)     | [![ymehlil's 42 NetPractice Score](https://badge42.vercel.app/api/v2/clams84mi00110gmp7m4fnlxg/project/3132774)](https://github.com/JaeSeoKim/badge42)          |
-| [netpratice](https://github.com/yass-mhl/yass-mhl)     | [![ymehlil's 42 Philosophers Score](https://badge42.vercel.app/api/v2/clams84mi00110gmp7m4fnlxg/project/3084087)](https://github.com/JaeSeoKim/badge42)              |
-| [cub3d](https://github.com/yass-mhl/cub3d)     | [![ymehlil's 42 cub3d Score](https://badge42.vercel.app/api/v2/clams84mi00110gmp7m4fnlxg/project/3159628)](https://github.com/JaeSeoKim/badge42)              |
-</td>
-</tr> </table></div>
-
+</div>
 
 <br/>  
 
