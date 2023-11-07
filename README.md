@@ -3,10 +3,10 @@
 </div>   
 
 
-### <div align="center">I'm Yassin, a 20 yo french 🇫🇷 Fullstack Developer & 42 Student </div>  
+### <div align="center">I'm Yassin, a 21 yo french 🇫🇷 Fullstack Developer & 42 Student </div>  
   
 
-- Proud learner of the 42 Network 4️⃣ 2️⃣  
+- Proud learner of the [42 Network](https://42.fr/) 4️⃣ 2️⃣  
   
 
 - Teacher at [Le Wagon](https://www.lewagon.com/fr) 🚂  
