@@ -7,7 +7,7 @@
 
 - Proud learner of the [42 Network](https://42.fr/) 4️⃣ 2️⃣  
 
-- Fullstack Developer at [Cliking](https://cliking.co/] 🚀
+- Fullstack Developer at [Cliking](https://cliking.co/) 🚀
 
 - Teacher at [Le Wagon](https://www.lewagon.com/fr) 🚂  
   
